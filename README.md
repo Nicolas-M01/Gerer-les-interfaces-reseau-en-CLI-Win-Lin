@@ -5,6 +5,9 @@
 **Vérification des interfaces réseaux**  
 `ip a` = `ip addr show`  
 
+**Vérifier table de routage**
+``ip route``  
+
 **Fichier de conf des interface Debian**  
 ``/etc/network/interfaces``  
 
