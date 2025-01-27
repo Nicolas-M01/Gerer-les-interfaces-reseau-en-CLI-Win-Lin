@@ -21,4 +21,16 @@
 ``/etc/network/interfaces``  
 
 
+
+
+
 ## Windows  
+
+**Adresse IP**  
+
+
+
+**Table de routage**  
+``route print`` : affiche les routes  
+``route delete 0.0.0.0`` : supprime la route par défaut  
+``route add 0.0.0.0 mask 0.0.0.0 192.168.1.254`` : Ajoute la route par défaut : 192.168.1.254  
